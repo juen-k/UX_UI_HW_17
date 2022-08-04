@@ -93,4 +93,10 @@
 
 .socialMedia {
     margin-left: 80%; 
+    margin-top:0% ;
+    margin-bottom: 100px;
+}
+.titleFooter {
+    font-size: 40px;
+    margin-top: 100px;
 }
